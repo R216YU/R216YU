@@ -1,2 +1,2 @@
 ### GOODBYE 👋
-now practicing JavaScript.
+python3 django flask, html+css+jquery, javascript
