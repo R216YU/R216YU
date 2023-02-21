@@ -1,1 +1,2 @@
 ### GOODBYE 👋
+now practicing JavaScript.
