@@ -5,5 +5,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R216YU&layout=compact)](https://github.com/R216YU/github-readme-stats)
-
-[portfolio site](https://portfolio-site-react-gold.vercel.app/)
