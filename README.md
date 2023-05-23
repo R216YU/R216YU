@@ -6,5 +6,5 @@ now practice fastapi, react, typescript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R216YU&layout=compact)](https://github.com/R216YU/github-readme-stats)
 
-###### to do list
+### to do list
 - portfolio rework
