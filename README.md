@@ -5,4 +5,4 @@
 
 
 ### to do list
-- portfolio rework
+- portfolio rework(design, responsive)
