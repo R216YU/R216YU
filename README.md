@@ -5,4 +5,7 @@
 
 
 ### to do list
-- portfolio rework(design, responsive)
+- learning git/github
+- learning web
+- learning sql
+- relearning python, js, php, 
