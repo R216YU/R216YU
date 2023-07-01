@@ -9,3 +9,6 @@
 - learning web
 - learning sql
 - relearning python, js, php, 
+
+- create portfolio app
+- renewal portfolio homepage
