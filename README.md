@@ -5,7 +5,3 @@
 [Credly](https://www.credly.com/users/r216yu)
 
 ### TODO
-- [ ] Todo App (Web, Mobile)
-- [ ] Workout record (Web, Mobile)
-- [ ] Loose Leaf App (Web, Mobile, Desktop)
-- [ ] Nest Todo App
