@@ -3,5 +3,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R216YU&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [Credly](https://www.credly.com/users/r216yu)
-
-### TODO
